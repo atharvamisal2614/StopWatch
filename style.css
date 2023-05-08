@@ -1,0 +1,49 @@
+
+
+
+body{
+    background-image: url("http://il9.picdn.net/shutterstock/videos/1831022/thumb/1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: justify;
+    padding-top: 15%;
+  padding-left: 10%;
+    margin-right:50%;
+}
+h1{
+    color: white;
+    margin-left: 5%;
+    letter-spacing: 10px;
+    font-weight: bolder;
+    font-size: 1000px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+h2{
+    color: lightyellow;
+    letter-spacing: 5px;
+    margin-right: 10%;
+}
+p{
+    color: yellow;
+    font-size: 200%;
+    font-weight: bolder;
+    font-size:xx-large;
+    margin-left: 10%;
+    line-height: 300%;
+}
+#start{
+    text-align: center;
+    margin-left: 40px;
+    font-size: x-large;
+}
+#stop{
+    text-align: center;
+    margin-left: 60px;
+    font-size: x-large;
+}
+#reset{
+    text-align: center;
+    margin-left: 55px;
+    font-size: x-large;
+}
